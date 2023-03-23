@@ -5,10 +5,6 @@ repo: StatusPage # The name of this repository
 sites:
   - name: Cloud console
     url: https://console.loclix.cloud
-  - name: Customer portal
-    url: https://clients.loclix.io
-    headers:
-      - "Authorization: Bearer $UP_CHECK_TOKEN"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
