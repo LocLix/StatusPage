@@ -4,7 +4,7 @@
     "url": "https://console.loclix.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/console.loclix.cloud.ico",
     "slug": "cloud-console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1391,
     "timeMonth": 1337,
     "timeYear": 1346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   }
 ]
