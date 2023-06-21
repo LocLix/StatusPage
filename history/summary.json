@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.loclix.cloud.ico",
     "slug": "cloud-console",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.97%",
-    "time": 1421,
-    "timeDay": 1141,
-    "timeWeek": 1291,
-    "timeMonth": 1548,
-    "timeYear": 1421,
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 1422,
+    "timeDay": 1301,
+    "timeWeek": 1324,
+    "timeMonth": 1558,
+    "timeYear": 1422,
     "dailyMinutesDown": {
-      "2023-06-20": 13,
       "2023-06-19": 30
     }
   }
